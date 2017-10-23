@@ -1,0 +1,6 @@
+symbol,quantity,price,action
+TEA,120,12.5,BUY
+TEA,240,12.3,SELL
+GIN,240,12.1,SELL
+GIN,220,12.0,BUY
+JOE,204,9.0,BUY
